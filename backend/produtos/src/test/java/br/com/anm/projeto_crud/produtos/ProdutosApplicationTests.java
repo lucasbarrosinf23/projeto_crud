@@ -1,4 +1,4 @@
-package br.com.anm.projeto_crud.produtos;
+package br.com.projetocrud.produtos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
